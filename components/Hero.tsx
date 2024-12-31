@@ -7,8 +7,7 @@ export default function Hero() {
         <h1 className="text-4xl font-bold mb-4">Kareem Elhemaly</h1>
         <p className="text-xl mb-8">Computer Engineering Student at University of South Florida</p>
         <p className="mb-8 max-w-2xl mx-auto">
-          Passionate about creating innovative solutions and learning new technologies. 
-          Seeking opportunities to apply my skills and contribute to meaningful projects.
+        Specializing in full-stack development, algorithm design, and embedded systems. Whether I'm building advanced data structures or designing intuitive user interfaces, my work is driven by creativity, precision, and a desire to make a lasting impact.
         </p>
         <Button asChild>
           <a href="#contact">Get in Touch</a>
